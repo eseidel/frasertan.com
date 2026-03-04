@@ -1,0 +1,19 @@
+---
+---
+
+<div class="search-container" id="search"></div>
+
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
+<script is:inline>
+  window.addEventListener("DOMContentLoaded", () => {
+    const script = document.createElement("script");
+    script.src = "/pagefind/pagefind-ui.js";
+    script.onload = () => {
+      new PagefindUI({
+        element: "#search",
+        showSubResults: true,
+      });
+    };
+    document.head.appendChild(script);
+  });
+</script>

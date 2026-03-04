@@ -1,0 +1,23 @@
+---
+title: "Balsamic Vinaigrette"
+description: "Adapted from my mother's off the cuff recipe. there's never any reason to buy salad dressing - none can match home-made!"
+categories:
+  - Salads
+---
+
+## Ingredients
+
+1/4 cup balsamic vinegar
+1 teaspoon dijon mustard
+1 tablespoon honey
+salt
+pepper
+1/2 cup olive oil
+1-2 tablespoons water
+1/2 clove garlic, minced (optional)
+
+## Instructions
+
+1. Mix all ingredients except the oil.
+
+2. Add the oil and whisk vigorously to make an emulsion. Sprinkle over salad and enjoy!

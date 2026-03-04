@@ -1,0 +1,38 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+---
+
+<BaseLayout title="Home">
+  <div class="home-hero">
+    <div class="home-content">
+      <h2>Senior Manager, Strategic Programs<br />Precision Neuroscience</h2>
+      <div class="social-links">
+        <a href="https://www.linkedin.com/in/frasertan/" target="_blank" rel="noopener">LinkedIn</a>
+        <a href="mailto:fraser@frasertan.com">Email</a>
+      </div>
+    </div>
+  </div>
+  <hr />
+  <ul>
+    <li><a href="/recipes/">Recipes</a></li>
+    <li><a href="/curriculum-vitae/">Curriculum Vitae</a></li>
+    <li><a href="/personal-projects/">Personal Projects</a></li>
+  </ul>
+</BaseLayout>
+
+<style>
+  .home-hero {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    padding: 2rem 0;
+  }
+  .home-content h2 {
+    margin-top: 0;
+  }
+  .social-links {
+    display: flex;
+    gap: 1rem;
+    margin-top: 1rem;
+  }
+</style>

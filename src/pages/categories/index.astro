@@ -1,0 +1,39 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
+
+const recipes = await getCollection("recipes");
+
+const categories = [
+  "Starters",
+  "Salads",
+  "Soups and Stews",
+  "Main Dishes",
+  "Sauces and Dips",
+  "Side Dishes",
+  "Breads and Baked Goods",
+  "Desserts",
+  "Breakfast",
+  "Drinks",
+];
+
+const categoryCounts = categories.map((cat) => ({
+  name: cat,
+  slug: cat.toLowerCase().replace(/ /g, "-"),
+  count: recipes.filter((r) => r.data.categories.includes(cat)).length,
+}));
+---
+
+<BaseLayout title="Categories">
+  <h1>Recipe Categories</h1>
+  <ul class="category-list">
+    {categoryCounts.map(({ name, slug, count }) => (
+      <li>
+        <a href={`/categories/${slug}/`}>
+          {name}
+          <span class="count">{count} recipes</span>
+        </a>
+      </li>
+    ))}
+  </ul>
+</BaseLayout>

@@ -1,0 +1,56 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import RecipeCard from "../../components/RecipeCard.astro";
+import Search from "../../components/Search.astro";
+import { getCollection } from "astro:content";
+
+const recipes = await getCollection("recipes");
+const sorted = recipes.sort((a, b) => a.data.title.localeCompare(b.data.title));
+
+const categories = [
+  "Starters",
+  "Salads",
+  "Soups and Stews",
+  "Main Dishes",
+  "Sauces and Dips",
+  "Side Dishes",
+  "Breads and Baked Goods",
+  "Desserts",
+  "Breakfast",
+  "Drinks",
+];
+---
+
+<BaseLayout title="Recipes" description="Browse all recipes">
+  <h1>Recipes</h1>
+
+  <Search />
+
+  <h2>Categories</h2>
+  <ul class="category-list">
+    {categories.map((cat) => {
+      const slug = cat.toLowerCase().replace(/ /g, "-");
+      const count = recipes.filter((r) => r.data.categories.includes(cat)).length;
+      return (
+        <li>
+          <a href={`/categories/${slug}/`}>
+            {cat}
+            <span class="count">{count} recipes</span>
+          </a>
+        </li>
+      );
+    })}
+  </ul>
+
+  <h2>All Recipes</h2>
+  <div class="recipe-grid">
+    {sorted.map((recipe) => (
+      <RecipeCard
+        title={recipe.data.title}
+        slug={recipe.id}
+        description={recipe.data.description}
+        dietary={recipe.data.dietary}
+      />
+    ))}
+  </div>
+</BaseLayout>

@@ -1,0 +1,34 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import RecipeCard from "../../components/RecipeCard.astro";
+import { getCollection } from "astro:content";
+
+export function getStaticPaths() {
+  const tagNames = ["Weeknight Meals", "Make Ahead", "Seasonal Treats"];
+  return tagNames.map((tag) => ({
+    params: { tag: tag.toLowerCase().replace(/ /g, "-") },
+    props: { tagName: tag },
+  }));
+}
+
+const { tagName } = Astro.props;
+const recipes = await getCollection("recipes");
+const tagged = recipes
+  .filter((r) => r.data.tags?.includes(tagName))
+  .sort((a, b) => a.data.title.localeCompare(b.data.title));
+---
+
+<BaseLayout title={tagName}>
+  <h1>{tagName}</h1>
+  <p>{tagged.length} recipes</p>
+  <div class="recipe-grid">
+    {tagged.map((recipe) => (
+      <RecipeCard
+        title={recipe.data.title}
+        slug={recipe.id}
+        description={recipe.data.description}
+        dietary={recipe.data.dietary}
+      />
+    ))}
+  </div>
+</BaseLayout>

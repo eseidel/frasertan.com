@@ -1,0 +1,66 @@
+---
+import BaseLayout from "./BaseLayout.astro";
+import DietaryBadge from "../components/DietaryBadge.astro";
+
+interface Props {
+  title: string;
+  description?: string;
+  yield?: string;
+  categories: string[];
+  subcategories?: string[];
+  tags?: string[];
+  dietary?: string[];
+  source?: { name?: string; url?: string };
+}
+
+const {
+  title,
+  description,
+  yield: recipeYield,
+  categories,
+  subcategories,
+  tags,
+  dietary,
+  source,
+} = Astro.props;
+---
+
+<BaseLayout title={title} description={description}>
+  <article data-pagefind-body>
+    <div class="recipe-header">
+      <h1>{title}</h1>
+      {description && <p class="recipe-description">{description}</p>}
+      <div class="recipe-meta">
+        {recipeYield && <span>{recipeYield}</span>}
+        {dietary && dietary.length > 0 && (
+          <span class="badges" data-pagefind-filter="dietary">
+            {dietary.map((code) => (
+              <DietaryBadge code={code} />
+            ))}
+          </span>
+        )}
+      </div>
+      <div class="recipe-meta">
+        {categories.map((cat) => (
+          <a href={`/categories/${cat.toLowerCase().replace(/ /g, "-")}/`} data-pagefind-filter="category">
+            {cat}
+          </a>
+        ))}
+        {tags && tags.map((tag) => (
+          <a href={`/tags/${tag.toLowerCase().replace(/ /g, "-")}/`}>
+            {tag}
+          </a>
+        ))}
+      </div>
+    </div>
+    <hr />
+    <slot />
+    {source && (source.name || source.url) && (
+      <p class="recipe-source">
+        Source: {source.url
+          ? <a href={source.url} target="_blank" rel="noopener">{source.name || source.url}</a>
+          : source.name}
+      </p>
+    )}
+  </article>
+</BaseLayout>

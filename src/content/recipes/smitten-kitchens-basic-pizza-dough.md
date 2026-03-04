@@ -1,0 +1,34 @@
+---
+title: "Smitten Kitchen's Basic Pizza Dough"
+categories:
+  - Main Dishes
+subcategories:
+  - Pizzas
+source:
+  name: "."
+  url: "http://smittenkitchen.com/blog/2007/09/pizza-even-sweeter/"
+---
+
+## Ingredients
+
+6 tablespoons warm water (may need up to 1 or 2 tablespoons more water)
+2 tablespoons white wine
+3/4 teaspoon active dry yeast
+1/2 teaspoon honey
+1 teaspoon salt
+1 tablespoon olive oil
+1 1/2 cups flour
+
+## Instructions
+
+Whisk wine, water and yeast in a medium bowl until yeast has dissolved. Add honey, salt and olive oil and stir. Add flour and no matter how dry it looks, work it with a spoon and your fingers until it comes together as a dough. Add more water one tablespoon at a time if you need, but in my experience, this is almost never necessary.
+
+Sprinkle some flour on the counter and knead the dough for a minute or two.
+
+If you’re like me and always trying to reduce the number of dirty dishes left at the end of the night, wash the bowl you made the dough in, dry it and coat the inside with olive oil. Put the dough in, cover it with plastic wrap, and let it rise for an hour or up to two, until it is doubled.
+
+[Easiest way to tell if a dough has risen enough? Dip two fingers in flour, press them into the dough, and if the impression stays, it’s good to go. If it pops back, let it go until it doesn’t.]
+
+Preheat your oven to its highest temperature. If you have a pizza stone, sprinkle it with cornmeal and put it in the oven. Otherwise, sprinkle a baking pan with the same.
+
+Once the dough has doubled, turn it out onto a floured counter and gently deflate the dough with the palm of your hands. Form it into a ball and let it rest on a floured spot with either plastic wrap over it (sprinkle the top of the dough with flour so it doesn’t stick) or an upended bowl. In 15 minutes, it is ready to roll out.

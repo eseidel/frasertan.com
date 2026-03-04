@@ -1,0 +1,26 @@
+---
+title: "Buttercream Frosting"
+description: "A very basic buttercream frosting - no eggs, no heating required!"
+categories:
+  - Desserts
+subcategories:
+  - Frostings and Sauces
+dietary:
+  - GF
+  - EF
+---
+
+## Ingredients
+
+0.5 c (1 stick) unsalted butter, room temperature
+3 cups powdered sugar, sifted
+4 tbsp heavy cream
+1 tsp vanilla
+
+## Instructions
+
+Cream butter in the bowl of a stand mixer with the whisk until light and fluffy. Slowly beat in powdered sugar in small batches - it will fly everywhere!
+
+Add cream and vanilla and beat on high until light and fluffy.
+
+Optional: Replace the whisk with the paddle attachment and beat for a few seconds to get rid of air bubbles.
