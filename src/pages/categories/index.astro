@@ -27,13 +27,15 @@ const categoryCounts = categories.map((cat) => ({
 <BaseLayout title="Categories">
   <h1>Recipe Categories</h1>
   <ul class="category-list">
-    {categoryCounts.map(({ name, slug, count }) => (
-      <li>
-        <a href={`/categories/${slug}/`}>
-          {name}
-          <span class="count">{count} recipes</span>
-        </a>
-      </li>
-    ))}
+    {
+      categoryCounts.map(({ name, slug, count }) => (
+        <li>
+          <a href={`/categories/${slug}/`}>
+            {name}
+            <span class="count">{count} recipes</span>
+          </a>
+        </li>
+      ))
+    }
   </ul>
 </BaseLayout>

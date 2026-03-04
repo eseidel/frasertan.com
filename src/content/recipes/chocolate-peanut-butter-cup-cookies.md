@@ -6,7 +6,7 @@ categories:
 subcategories:
   - Cookies
 source:
-  name: "Deb about Dutched vs natural cocoa powder:\"If you don’t have Dutched cocoa and want to use natural (i.e. any American brand such as Hershey’s or one labeled as natural), you can do so here and use the more standard 1/2 teaspoon baking soda instead of 2 teaspoons of baking powder; it simply makes a lighter-colored cookie.\""
+  name: 'Deb about Dutched vs natural cocoa powder:"If you don’t have Dutched cocoa and want to use natural (i.e. any American brand such as Hershey’s or one labeled as natural), you can do so here and use the more standard 1/2 teaspoon baking soda instead of 2 teaspoons of baking powder; it simply makes a lighter-colored cookie."'
   url: "https://smittenkitchen.com/2018/02/chocolate-peanut-butter-cup-cookies/"
 ---
 

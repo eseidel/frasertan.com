@@ -12,7 +12,7 @@ dietary:
   - EF
   - GF*
 source:
-  name: "Deb: \"Do ahead: You can make this ahead of time, cover it in the fridge overnight then leave it at room temperature for 20 to 30 minutes before baking it. The torte also reheats well.\""
+  name: 'Deb: "Do ahead: You can make this ahead of time, cover it in the fridge overnight then leave it at room temperature for 20 to 30 minutes before baking it. The torte also reheats well."'
   url: "https://smittenkitchen.com/2016/02/taco-torte/"
 ---
 

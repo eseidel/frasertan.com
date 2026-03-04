@@ -1,6 +1,6 @@
 ---
 title: "Mexican Chocolate Tofu Mousse"
-description: "Don't be put off by the tofu! This mousse is smooth and sweet and not too rich! it's got less fat and sugar than \"real\" chocolate mousse and cinnamon and cayenne spice things up! From the New York Times' Mark Bittman."
+description: 'Don''t be put off by the tofu! This mousse is smooth and sweet and not too rich! it''s got less fat and sugar than "real" chocolate mousse and cinnamon and cayenne spice things up! From the New York Times'' Mark Bittman.'
 categories:
   - Desserts
 subcategories:

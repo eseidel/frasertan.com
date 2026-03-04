@@ -24,6 +24,6 @@ Kosher salt and freshly ground black pepper, to taste
 
 Place potatoes and corn into a slow cooker. Stir in flour and gently toss to combine. Stir in chicken stock, thyme, oregano, garlic powder, onion powder, salt and pepper, to taste.
 
-Cover and cook on low heat for 7-8 hours or high heat for 3-4 hours.* Stir in butter and heavy cream.
+Cover and cook on low heat for 7-8 hours or high heat for 3-4 hours.\* Stir in butter and heavy cream.
 
 Serve immediately.

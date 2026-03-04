@@ -17,7 +17,7 @@ Dough
 3/4 cup (180ml) whole milk
 3 Tablespoons (45g) unsalted butter, softened to room temperature
 1 large egg
-2 and 1/3 cups (291g) all-purpose flour (spoon & leveled), plus more as needed*
+2 and 1/3 cups (291g) all-purpose flour (spoon & leveled), plus more as needed\*
 1 teaspoon salt
 1 teaspoon garlic powder
 1 Tablespoon finely chopped fresh rosemary (or 2 teaspoons dried)
@@ -56,7 +56,7 @@ Adjust the oven rack to the lower third position then preheat oven to 350°F (17
 
 ## Notes
 
-- *My dough was super wet; I added almost a full half cup more flour than was called for. I recommend adding a few tablespoons at a time and checking the dough consistency after each addition.
+- \*My dough was super wet; I added almost a full half cup more flour than was called for. I recommend adding a few tablespoons at a time and checking the dough consistency after each addition.
 - About that kickass garlic rosemary butter - while you're at it, just double the recipe! You can save the extra butter for later - and by later I mean slathering all over your already decadent bread :)
 - From the original author:Make Ahead Instructions: Freeze baked and cooled bread for up to 3 months. Thaw at room temperature or overnight in the refrigerator and warm in the oven to your liking. The dough can be prepared through step 3, then after it has risen, punch it down to release the air, cover it tightly, then place in the refrigerator for up to 2 days. Continue with step 4. To freeze the dough, prepare it through step 3. After it has risen, punch it down to release the air. Wrap in plastic wrap and place in a freezer-friendly container for up to 3 months. When ready to use, thaw the dough overnight in the refrigerator. Then let the dough sit at room temperature for about 30 minutes before continuing with step 4. (You may need to punch it down again if it has some air bubbles.)
 - Make Ahead Instructions: Freeze baked and cooled bread for up to 3 months. Thaw at room temperature or overnight in the refrigerator and warm in the oven to your liking. The dough can be prepared through step 3, then after it has risen, punch it down to release the air, cover it tightly, then place in the refrigerator for up to 2 days. Continue with step 4. To freeze the dough, prepare it through step 3. After it has risen, punch it down to release the air. Wrap in plastic wrap and place in a freezer-friendly container for up to 3 months. When ready to use, thaw the dough overnight in the refrigerator. Then let the dough sit at room temperature for about 30 minutes before continuing with step 4. (You may need to punch it down again if it has some air bubbles.)

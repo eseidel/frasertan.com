@@ -39,7 +39,7 @@ Using an electric mixer on medium speed (with the paddle attachment, if using a 
 
 Line two baking sheets with parchment or wax paper and sprinkle them generously with flour. Turn the dough onto one of the sheets and sprinkle the top with flour. Flatten the dough with your hands until it is about 1/2 inch thick. Use more flour if the dough is still wet. Transfer the dough to the freezer until it is slightly hardened, about 20 minutes. Pull the dough out of the freezer. Using a 3-inch or 3 1/2-inch doughnut cutter — or a 3 1/2-inch round cutter for the outer shape and a 1-inch round cutter for the hole from a set like this, as I did — cut out doughnut shapes. Place the cut doughnuts and doughnut holes onto the second sheet pan. Refrigerate the doughnuts for 20 to 30 minutes. (You may re-roll the scraps of dough, refrigerate them briefly and cut additional doughnuts from the dough.)
 
-Add enough oil or shortening to a deep-sided pan to measure a depth of about 3 inches. Attach a candy thermometer to the side of the pan and heat over medium heat until the oil reaches 350°F*. Have ready a plate lined with several thicknesses of paper towels.
+Add enough oil or shortening to a deep-sided pan to measure a depth of about 3 inches. Attach a candy thermometer to the side of the pan and heat over medium heat until the oil reaches 350°F\*. Have ready a plate lined with several thicknesses of paper towels.
 
 Make your toppings (if using): While the cut doughnut shapes are in the refrigerator, make the glaze by whisking together the confectioners’ sugar and the cider until the mixture is smooth; make the cinnamon sugar by mixing the two together. Set aside.
 

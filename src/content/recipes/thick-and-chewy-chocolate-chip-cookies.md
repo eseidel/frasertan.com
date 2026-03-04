@@ -12,7 +12,7 @@ subcategories:
 2 cups plus 2 tablespoons (10 5/8 oz) all purpose flour
 1/2 teaspoon baking soda
 1/2 teaspoon salt
-12 tablespoons (1 1/2 sticks) unsalted butter, melted and cooled til just warm*
+12 tablespoons (1 1/2 sticks) unsalted butter, melted and cooled til just warm\*
 1 cup (7 ounces) firmly packed light or dark brown sugar
 1/2 cup (3 1/2 oz) granulated sugar
 1 large egg, plus 1 large egg yolk

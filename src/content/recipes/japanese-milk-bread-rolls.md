@@ -4,7 +4,7 @@ description: "Tangzhong makes these rolls extra sweet, soft and fluffy!"
 categories:
   - Breads and Baked Goods
 source:
-  name: "King Arthur Flour: To make a loaf: After the dough's initial rise, divide it into four equal pieces. Flatten each piece into a rectangle, then fold the short ends in towards one another like a letter. Flatten the folded pieces into rectangles again and, starting with a short end, roll them each into a log. Place the logs in a row of four — seam side down and side by side — in a lightly greased 9\" x 5\" loaf pan. Cover the loaf and allow it to rest/rise for 40 to 50 minutes, until puffy. Brush the loaf with milk or egg wash and bake at 350°F for about 30 minutes, until golden brown on top and a digital thermometer inserted into the center of the loaf reads at least 190°F. Remove the loaf from the oven, and cool it on a rack."
+  name: 'King Arthur Flour: To make a loaf: After the dough''s initial rise, divide it into four equal pieces. Flatten each piece into a rectangle, then fold the short ends in towards one another like a letter. Flatten the folded pieces into rectangles again and, starting with a short end, roll them each into a log. Place the logs in a row of four — seam side down and side by side — in a lightly greased 9" x 5" loaf pan. Cover the loaf and allow it to rest/rise for 40 to 50 minutes, until puffy. Brush the loaf with milk or egg wash and bake at 350°F for about 30 minutes, until golden brown on top and a digital thermometer inserted into the center of the loaf reads at least 190°F. Remove the loaf from the oven, and cool it on a rack.'
   url: "https://www.kingarthurflour.com/recipes/japanese-milk-bread-rolls-recipe"
 ---
 

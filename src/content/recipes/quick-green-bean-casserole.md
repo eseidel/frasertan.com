@@ -1,5 +1,5 @@
 ---
-title: "Quick Green Bean \"Casserole\""
+title: 'Quick Green Bean "Casserole"'
 description: "Not a lick of cream of mushroom soup in sight for this Thanksgiving staple!"
 yield: "Serves 8"
 categories:

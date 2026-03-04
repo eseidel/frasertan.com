@@ -24,9 +24,9 @@ dietary:
 
 Set oven to 350°.
 
-*blend dry ingredients
+\*blend dry ingredients
 
-*pour in wet ingredients and whisk until smooth
+\*pour in wet ingredients and whisk until smooth
 
 Pour in to greased, floured 9 inch round cake pan. ( I use a cheesecake pan)
 

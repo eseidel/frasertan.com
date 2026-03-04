@@ -18,7 +18,7 @@ dietary:
 2 large eggs plus 1 large egg yolk
 1 1/2 tsp salt
 4 1/4 cups flour (I used all purpose, Smitten Kitchen says you can also use bread flour)
-2 medium baking apples*
+2 medium baking apples\*
 ~1/2 tsp sugar, ground cinnamon, nutmeg, allspice
 1 egg beaten with 1 tbsp water (for the wash)
 
@@ -36,6 +36,6 @@ Turn the dough out back onto you well-floured work surface. Gently deflate by pr
 
 After this second rise, quarter your dough ball. Roll each quarter out into a rough rope about 12 inches long. Doesn't have to be perfect, and corral any errant apple chunks. On a piece of parchment paper or silpat on a cookie sheet, lay out two ropes north to south next to each other. Take the third rope and lay is across the first two, over one and under the other. Repeat with the fourth rope, weaving it under and over the opposite ropes to the third rope. Now you have a giant plus sign. Locate the ends of ropes that come out from underneath the main body. Take those ends and lift them over the rope ends next to them and tuck the ends under. Then tuck the ends of the remaining ropes under as well. For a better description and even better photos, see Smitten Kitchen's original post .
 
-Brush this bread round with the egg wash. Invert the bowl over it and let rise another hour. Mine kinda went from round to square during this rise and also grew monstrously large - at one point we thought it might come alive and try to climb out the kitchen window**. Forty-five minutes into the rise, preheat your oven to 375°. I used a convection oven, so for a standard oven increase the baking time by a few minutes. Brush the bread with egg wash once more, sprinkle on some sugar. Pop the round into the oven and bake for 40 to 45 minutes, until an instant read thermometer inserted into the middle of the loaf registers 195°. My loaves browned very quickly, and I ended up covering them with tinfoil about halfway through baking to prevent the crusts from burning. Let the bread cool for at least an hour before cutting (to let the crumb set).
+Brush this bread round with the egg wash. Invert the bowl over it and let rise another hour. Mine kinda went from round to square during this rise and also grew monstrously large - at one point we thought it might come alive and try to climb out the kitchen window\*\*. Forty-five minutes into the rise, preheat your oven to 375°. I used a convection oven, so for a standard oven increase the baking time by a few minutes. Brush the bread with egg wash once more, sprinkle on some sugar. Pop the round into the oven and bake for 40 to 45 minutes, until an instant read thermometer inserted into the middle of the loaf registers 195°. My loaves browned very quickly, and I ended up covering them with tinfoil about halfway through baking to prevent the crusts from burning. Let the bread cool for at least an hour before cutting (to let the crumb set).
 
 Enjoy!

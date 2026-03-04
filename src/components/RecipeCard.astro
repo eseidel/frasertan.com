@@ -14,11 +14,13 @@ const { title, slug, description, dietary } = Astro.props;
 <div class="recipe-card">
   <h3><a href={`/recipes/${slug}/`}>{title}</a></h3>
   {description && <p>{description}</p>}
-  {dietary && dietary.length > 0 && (
-    <div class="badges">
-      {dietary.map((code) => (
-        <DietaryBadge code={code} />
-      ))}
-    </div>
-  )}
+  {
+    dietary && dietary.length > 0 && (
+      <div class="badges">
+        {dietary.map((code) => (
+          <DietaryBadge code={code} />
+        ))}
+      </div>
+    )
+  }
 </div>

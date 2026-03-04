@@ -22,13 +22,15 @@ const tagged = recipes
   <h1>{tagName}</h1>
   <p>{tagged.length} recipes</p>
   <div class="recipe-grid">
-    {tagged.map((recipe) => (
-      <RecipeCard
-        title={recipe.data.title}
-        slug={recipe.id}
-        description={recipe.data.description}
-        dietary={recipe.data.dietary}
-      />
-    ))}
+    {
+      tagged.map((recipe) => (
+        <RecipeCard
+          title={recipe.data.title}
+          slug={recipe.id}
+          description={recipe.data.description}
+          dietary={recipe.data.dietary}
+        />
+      ))
+    }
   </div>
 </BaseLayout>

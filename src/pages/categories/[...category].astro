@@ -47,7 +47,7 @@ for (const recipe of inCategory) {
 }
 
 const subcategories = Array.from(subcategoryMap.entries()).sort(([a], [b]) =>
-  a.localeCompare(b)
+  a.localeCompare(b),
 );
 ---
 
@@ -55,13 +55,32 @@ const subcategories = Array.from(subcategoryMap.entries()).sort(([a], [b]) =>
   <h1>{categoryName}</h1>
   <p>{inCategory.length} recipes</p>
 
-  {subcategories.map(([subName, subRecipes]) => (
-    <div class="subcategory-group">
-      <h3>{subName}</h3>
-      <div class="recipe-grid">
-        {subRecipes
-          .sort((a, b) => a.data.title.localeCompare(b.data.title))
-          .map((recipe) => (
+  {
+    subcategories.map(([subName, subRecipes]) => (
+      <div class="subcategory-group">
+        <h3>{subName}</h3>
+        <div class="recipe-grid">
+          {subRecipes
+            .sort((a, b) => a.data.title.localeCompare(b.data.title))
+            .map((recipe) => (
+              <RecipeCard
+                title={recipe.data.title}
+                slug={recipe.id}
+                description={recipe.data.description}
+                dietary={recipe.data.dietary}
+              />
+            ))}
+        </div>
+      </div>
+    ))
+  }
+
+  {
+    noSubcategory.length > 0 && (
+      <div class="subcategory-group">
+        {subcategories.length > 0 && <h3>Other</h3>}
+        <div class="recipe-grid">
+          {noSubcategory.map((recipe) => (
             <RecipeCard
               title={recipe.data.title}
               slug={recipe.id}
@@ -69,23 +88,8 @@ const subcategories = Array.from(subcategoryMap.entries()).sort(([a], [b]) =>
               dietary={recipe.data.dietary}
             />
           ))}
+        </div>
       </div>
-    </div>
-  ))}
-
-  {noSubcategory.length > 0 && (
-    <div class="subcategory-group">
-      {subcategories.length > 0 && <h3>Other</h3>}
-      <div class="recipe-grid">
-        {noSubcategory.map((recipe) => (
-          <RecipeCard
-            title={recipe.data.title}
-            slug={recipe.id}
-            description={recipe.data.description}
-            dietary={recipe.data.dietary}
-          />
-        ))}
-      </div>
-    </div>
-  )}
+    )
+  }
 </BaseLayout>

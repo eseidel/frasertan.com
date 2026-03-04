@@ -27,7 +27,7 @@ Tikka Masala sauce:
 2 tsp minced garlic
 2 tsp minced ginger
 0.5 c tomato paste
-12 green cardamom pods*
+12 green cardamom pods\*
 1 tsp crushed red chili flakes
 4 tsp turmeric
 2 tsp garam masala

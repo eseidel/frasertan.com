@@ -1,6 +1,6 @@
 ---
 title: "Dinner Salad"
-description: "Heartier than \"normal\" dinner salad, this salad is easily filling enough for a meal."
+description: 'Heartier than "normal" dinner salad, this salad is easily filling enough for a meal.'
 categories:
   - Salads
   - Main Dishes
@@ -31,6 +31,6 @@ dietary:
 
 4. Chop bell pepper and cucumber. Add to salad.
 
-4. Toast almond slivers with a bit of oil in a skillet until toasted. Sprinkle over salad.
+5. Toast almond slivers with a bit of oil in a skillet until toasted. Sprinkle over salad.
 
-5. Serve with dressing on the side.
+6. Serve with dressing on the side.

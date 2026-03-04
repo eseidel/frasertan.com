@@ -41,4 +41,4 @@ Place vinegar in a small bowl and whisk with salt, pepper and honey. Whisk oil i
 
 ## Notes
 
-- This is EVEN BETTER with grilled salmon *swoon*.
+- This is EVEN BETTER with grilled salmon _swoon_.

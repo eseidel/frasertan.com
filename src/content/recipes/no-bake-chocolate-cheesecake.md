@@ -13,7 +13,7 @@ source:
 ## Ingredients
 
 For the crust:
-200g (7oz) Oreo cookies*
+200g (7oz) Oreo cookies\*
 1/4 cup (60g) butter, melted
 For the filling:
 2 cups (450g) Full fat Cream cheese, room temperature

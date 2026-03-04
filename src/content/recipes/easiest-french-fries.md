@@ -4,7 +4,7 @@ description: "Don't let the frying scare you - these really are easy! Thanks Deb
 categories:
   - Side Dishes
 source:
-  name: "Deb: \"Oil choices: Any neutral oil that can handle high frying temperatures will work; my favorite for french fries is peanut. You can add 1/4 cup of duck, goose or bacon fat for an even more delicious flavor. Salt: Always salt your fries when they’re hot, hot, hot from the oil. The finer the salt, the better it sticks.\""
+  name: 'Deb: "Oil choices: Any neutral oil that can handle high frying temperatures will work; my favorite for french fries is peanut. You can add 1/4 cup of duck, goose or bacon fat for an even more delicious flavor. Salt: Always salt your fries when they’re hot, hot, hot from the oil. The finer the salt, the better it sticks."'
   url: "https://smittenkitchen.com/2017/03/easiest-french-fries/?fbclid=IwAR0g58ac3zc9mSBR1LVXlrf3GOKGBt_qKp941HoecCFhcG0x6vQyeYf5I4E"
 ---
 

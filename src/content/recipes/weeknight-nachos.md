@@ -1,6 +1,6 @@
 ---
 title: "Weeknight Nachos"
-description: "With this recipe from Smitten Kitchen, you too can enjoy hearing these precious words from your four-year-old: \"Mommy I love what you make for dinner!\""
+description: 'With this recipe from Smitten Kitchen, you too can enjoy hearing these precious words from your four-year-old: "Mommy I love what you make for dinner!"'
 categories:
   - Main Dishes
 tags:

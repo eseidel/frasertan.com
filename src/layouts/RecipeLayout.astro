@@ -32,35 +32,52 @@ const {
       {description && <p class="recipe-description">{description}</p>}
       <div class="recipe-meta">
         {recipeYield && <span>{recipeYield}</span>}
-        {dietary && dietary.length > 0 && (
-          <span class="badges" data-pagefind-filter="dietary">
-            {dietary.map((code) => (
-              <DietaryBadge code={code} />
-            ))}
-          </span>
-        )}
+        {
+          dietary && dietary.length > 0 && (
+            <span class="badges" data-pagefind-filter="dietary">
+              {dietary.map((code) => (
+                <DietaryBadge code={code} />
+              ))}
+            </span>
+          )
+        }
       </div>
       <div class="recipe-meta">
-        {categories.map((cat) => (
-          <a href={`/categories/${cat.toLowerCase().replace(/ /g, "-")}/`} data-pagefind-filter="category">
-            {cat}
-          </a>
-        ))}
-        {tags && tags.map((tag) => (
-          <a href={`/tags/${tag.toLowerCase().replace(/ /g, "-")}/`}>
-            {tag}
-          </a>
-        ))}
+        {
+          categories.map((cat) => (
+            <a
+              href={`/categories/${cat.toLowerCase().replace(/ /g, "-")}/`}
+              data-pagefind-filter="category"
+            >
+              {cat}
+            </a>
+          ))
+        }
+        {
+          tags &&
+            tags.map((tag) => (
+              <a href={`/tags/${tag.toLowerCase().replace(/ /g, "-")}/`}>
+                {tag}
+              </a>
+            ))
+        }
       </div>
     </div>
     <hr />
     <slot />
-    {source && (source.name || source.url) && (
-      <p class="recipe-source">
-        Source: {source.url
-          ? <a href={source.url} target="_blank" rel="noopener">{source.name || source.url}</a>
-          : source.name}
-      </p>
-    )}
+    {
+      source && (source.name || source.url) && (
+        <p class="recipe-source">
+          Source:{" "}
+          {source.url ? (
+            <a href={source.url} target="_blank" rel="noopener">
+              {source.name || source.url}
+            </a>
+          ) : (
+            source.name
+          )}
+        </p>
+      )
+    }
   </article>
 </BaseLayout>

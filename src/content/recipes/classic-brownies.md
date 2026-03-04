@@ -6,7 +6,7 @@ categories:
 subcategories:
   - Crumbles, Cobblers, Buckles and Bars
 source:
-  name: "Deb: \"Be sure to test for doneness before removing the brownies from the oven. If underbaked (the toothpick has batter clinging to it) the texture of the brownies will be dense and gummy. If overbaked (the toothpick comes out completely clean), the brownies will be dry and cakey.\""
+  name: 'Deb: "Be sure to test for doneness before removing the brownies from the oven. If underbaked (the toothpick has batter clinging to it) the texture of the brownies will be dense and gummy. If overbaked (the toothpick comes out completely clean), the brownies will be dry and cakey."'
   url: "https://smittenkitchen.com/2006/10/and-then-i-went-shoe-shopping/"
 ---
 

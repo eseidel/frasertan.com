@@ -34,10 +34,10 @@ Candy thermometer
 
 3. In a small saucepan, heat the sugar on medium high. Stir frequently but not constantly, to ensure that the melting sugar doesn't burn. Continue until all the sugar is melted and is a nice caramel color, but don't let it burn.
 
-3. Remove the pot from the heat and stir in the butter (it won't necessarily all incorporate). Then stir in the cream, apple syrup, cinnamon and salt. Be careful as it will steam a lot.
+4. Remove the pot from the heat and stir in the butter (it won't necessarily all incorporate). Then stir in the cream, apple syrup, cinnamon and salt. Be careful as it will steam a lot.
 
-4. Return the pot to the stove and cook until the caramel reaches 252°F. Immediately pour into the prepared pan. Don't worry about all the bubbles; those will disappear as the caramel cools.
+5. Return the pot to the stove and cook until the caramel reaches 252°F. Immediately pour into the prepared pan. Don't worry about all the bubbles; those will disappear as the caramel cools.
 
-5. Cool until solid and cool to the touch.
+6. Cool until solid and cool to the touch.
 
-6. Remove caramel block from the pan using the parchemnt sling. Cut the caramel into 1 inch squares using a lightly oiled knife, or, as I've found to be totally useful, a lightly oiled plastic pizza wheel and a bench scraper. Wrap each piece in a 4"x4" piece of parchment paper and store in a sealed container.
+7. Remove caramel block from the pan using the parchemnt sling. Cut the caramel into 1 inch squares using a lightly oiled knife, or, as I've found to be totally useful, a lightly oiled plastic pizza wheel and a bench scraper. Wrap each piece in a 4"x4" piece of parchment paper and store in a sealed container.

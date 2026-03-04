@@ -9,7 +9,7 @@ categories:
 
 1 piece of orange peel (about 1" x 2")
 3/4 oz Winter Warmth Syrup
-2 dashs of bitters*
+2 dashs of bitters\*
 2 ounces bourbon, rye or Canadian whiskey
 Equipment
 

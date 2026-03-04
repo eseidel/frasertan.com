@@ -20,6 +20,6 @@ pepper
 
 1. Start a pot of water boiling. 2. Meanwhile, saute the onion and scallion in a bit of oil until softened. Season with a pinch of salt.
 
-3. Cook orzo until al dente and drain.
+2. Cook orzo until al dente and drain.
 
-4. Add orzo, butter, onions and scallions to a bowl and toss to mix, melting the butter. Season with salt and pepper.
+3. Add orzo, butter, onions and scallions to a bowl and toss to mix, melting the butter. Season with salt and pepper.

@@ -1,7 +1,7 @@
 ---
 title: "Blondies"
 description: "I always thought I was a pure chocoholic, but these blondies came pretty close to changing my mind. They're like a giant chocolate chip cookie!"
-yield: "Make a 9\" x 13\" pan"
+yield: 'Make a 9" x 13" pan'
 categories:
   - Desserts
 subcategories:

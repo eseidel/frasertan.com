@@ -48,5 +48,5 @@ Put eggs and egg yolks into a bowl and beat lightly. Slowly whisk a cup of warm 
 ## Notes
 
 - I find the hazelnuts way too finicky, so I use toasted pecans instead! Yum!
-- This *might* be slightly too much dough for the tart pan; mine came out pretty big/thick. I also didn't weight the crust down when blind baking it - I'll try that next time to see if it keeps the crust from expanding too much.
+- This _might_ be slightly too much dough for the tart pan; mine came out pretty big/thick. I also didn't weight the crust down when blind baking it - I'll try that next time to see if it keeps the crust from expanding too much.
 - When cooking the curd, keep stirring to prevent lumps from forming.

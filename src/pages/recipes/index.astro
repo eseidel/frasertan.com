@@ -28,29 +28,35 @@ const categories = [
 
   <h2>Categories</h2>
   <ul class="category-list">
-    {categories.map((cat) => {
-      const slug = cat.toLowerCase().replace(/ /g, "-");
-      const count = recipes.filter((r) => r.data.categories.includes(cat)).length;
-      return (
-        <li>
-          <a href={`/categories/${slug}/`}>
-            {cat}
-            <span class="count">{count} recipes</span>
-          </a>
-        </li>
-      );
-    })}
+    {
+      categories.map((cat) => {
+        const slug = cat.toLowerCase().replace(/ /g, "-");
+        const count = recipes.filter((r) =>
+          r.data.categories.includes(cat),
+        ).length;
+        return (
+          <li>
+            <a href={`/categories/${slug}/`}>
+              {cat}
+              <span class="count">{count} recipes</span>
+            </a>
+          </li>
+        );
+      })
+    }
   </ul>
 
   <h2>All Recipes</h2>
   <div class="recipe-grid">
-    {sorted.map((recipe) => (
-      <RecipeCard
-        title={recipe.data.title}
-        slug={recipe.id}
-        description={recipe.data.description}
-        dietary={recipe.data.dietary}
-      />
-    ))}
+    {
+      sorted.map((recipe) => (
+        <RecipeCard
+          title={recipe.data.title}
+          slug={recipe.id}
+          description={recipe.data.description}
+          dietary={recipe.data.dietary}
+        />
+      ))
+    }
   </div>
 </BaseLayout>

@@ -6,7 +6,7 @@ categories:
 subcategories:
   - Soups
 source:
-  name: "Notes:Deb notes that to make the soup vegetarian veggie or mushroom stock can be substituted for the beef stock.Don't slice the onions too thin. I'd recommend about 1/4\" thick rounds. When we sliced ours thinner, the onions kind of disintegrated. The flavor was fantastic, but we didn't have the long soft strings of onions that make this soup so special. Also, our onions were very watery, or we didn't have the heat high enough, and so they took 2 full hours to caramelize."
+  name: 'Notes:Deb notes that to make the soup vegetarian veggie or mushroom stock can be substituted for the beef stock.Don''t slice the onions too thin. I''d recommend about 1/4" thick rounds. When we sliced ours thinner, the onions kind of disintegrated. The flavor was fantastic, but we didn''t have the long soft strings of onions that make this soup so special. Also, our onions were very watery, or we didn''t have the heat high enough, and so they took 2 full hours to caramelize.'
   url: "http://smittenkitchen.com/blog/2011/04/french-onion-soup/"
 ---
 

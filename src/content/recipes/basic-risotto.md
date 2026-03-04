@@ -1,6 +1,6 @@
 ---
 title: "Basic Risotto"
-description: "While you might think risotto is one of those dishes that only chefs at fancy restaurants can make, it's not! it's very simple to make at home, and you can throw anything you want into it. it's another one of my \"use up leftovers\" dishes that can also be dressed up for company."
+description: 'While you might think risotto is one of those dishes that only chefs at fancy restaurants can make, it''s not! it''s very simple to make at home, and you can throw anything you want into it. it''s another one of my "use up leftovers" dishes that can also be dressed up for company.'
 categories:
   - Main Dishes
   - Side Dishes

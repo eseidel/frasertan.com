@@ -4,7 +4,7 @@ description: "Another great find from Deb! The set glaze is amazing!"
 categories:
   - Desserts
 source:
-  name: "Deb: \"This recipe recommends you use a plain, not Greek-style, yogurt. If you only have Greek yogurt (like me), simply replace the last tablespoon of yogurt with water.\""
+  name: 'Deb: "This recipe recommends you use a plain, not Greek-style, yogurt. If you only have Greek yogurt (like me), simply replace the last tablespoon of yogurt with water."'
   url: "https://smittenkitchen.com/2018/06/ciambellone-an-italian-tea-cake/"
 ---
 
