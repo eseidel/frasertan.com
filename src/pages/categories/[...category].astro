@@ -59,7 +59,9 @@ const subcategories = Array.from(subcategoryMap.entries()).sort(([a], [b]) =>
   {
     subcategories.length > 0 && (
       <nav class="subcategory-nav">
-        <a href="#top" class="subcategory-top">&uarr; Top</a>
+        <a href="#top" class="subcategory-top">
+          &uarr; Top
+        </a>
         {subcategories.map(([subName]) => (
           <a href={`#sub-${subName.toLowerCase().replace(/ /g, "-")}`}>
             {subName}
@@ -73,7 +75,9 @@ const subcategories = Array.from(subcategoryMap.entries()).sort(([a], [b]) =>
   {
     subcategories.map(([subName, subRecipes]) => (
       <div class="subcategory-group">
-        <h3 id={`sub-${subName.toLowerCase().replace(/ /g, "-")}`}>{subName}</h3>
+        <h3 id={`sub-${subName.toLowerCase().replace(/ /g, "-")}`}>
+          {subName}
+        </h3>
         <div class="recipe-grid">
           {subRecipes
             .sort((a, b) => a.data.title.localeCompare(b.data.title))
