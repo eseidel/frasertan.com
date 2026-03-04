@@ -1,0 +1,33 @@
+---
+title: "Vegan Chocolate Cake"
+description: "This is a recipe that I got from my friend Liz, who makes it all the time for her more health conscious friends (as well as her vegan friends). It is a moist and succulent cake - not at all like what I thought a vegan cake would be!"
+categories:
+  - Desserts
+dietary:
+  - DF
+  - EF
+---
+
+## Ingredients
+
+1 1/2 c flour
+1 cup sugar
+7 T cocoa powder
+1/2 t salt
+1 t baking soda
+1 cup water
+1/3 cup oil
+1 t vanilla
+1T vinegar ( I use red wine because it gives it a nice reddish undertone, but any will do)
+
+## Instructions
+
+Set oven to 350°.
+
+*blend dry ingredients
+
+*pour in wet ingredients and whisk until smooth
+
+Pour in to greased, floured 9 inch round cake pan. ( I use a cheesecake pan)
+
+Bake for 35 min at 350˚

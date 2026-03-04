@@ -1,0 +1,24 @@
+---
+title: "Peach Salsa"
+description: "a family favorite!"
+categories:
+  - Sauces and Dips
+  - Side Dishes
+tags:
+  - Seasonal Treats
+---
+
+## Ingredients
+
+4 large peaches, extremely ripe and juicy
+one small red onion
+one lime
+brown sugar
+fish sauce
+cilantro
+
+## Instructions
+
+Chop up the peaches into small chunks. Mince the red onion and add to the peaches. Add one tablespoon of fish sauce. Squeeze half the lime over the mixture, add one tablespoon of brown sugar, and mix thouroughly. Taste, and adjust seasonings. (Careful with the fish sauce, it is very strong.) Add chopped cilantro to taste.
+
+Don't forget the chips!

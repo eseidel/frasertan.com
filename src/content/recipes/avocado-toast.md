@@ -1,0 +1,31 @@
+---
+title: "avocado toast"
+description: "I kinda just made this one up, with inspiration from lots of different places. Because, come on, what kind of millenial would I be without an avocado toast recipe?"
+categories:
+  - Main Dishes
+tags:
+  - Weeknight Meals
+---
+
+## Ingredients
+
+Thick slices of your favorite bread
+ripe avocados
+cherry tomatoes, sliced in half
+lemon or lime juice
+seasoned salt
+garlic oil
+garlic cloves
+
+## Instructions
+
+Toast the bread until well toasted.
+
+Rub a clove of garlic across the surface of the bread. Smash half an avocado on top, then sprinkle with lemon juice, seasoned salt and garlic oil.
+
+Top with lots of cherry tomatoes.
+
+## Notes
+
+- I like thick slices of an Italian or French bread, not a regular sliced loaf.
+- Alternatively, try making Quick Peasant Bread.

@@ -1,0 +1,36 @@
+---
+title: "Crunchy Asian Slaw"
+description: "This pairs well with strong sweet flavors, like Vietnamese Caramel Pork or braised short ribs."
+yield: "Serves 6"
+categories:
+  - Salads
+source:
+  url: "https://www.feastingathome.com/asian-slaw/print/25058/"
+---
+
+## Ingredients
+
+Slaw
+1 lb shredded red cabbage, -roughly 6-7 cups
+3 scallions, sliced
+1 cup cilantro, chopped (or sub Italian Parsley)
+any additional things you like - ex: shredded carrots, peanuts, etc
+Dressing
+3 tablespoons olive oil
+1–3 teaspoons toasted sesame oil (start conservatively add more to taste at the end)
+1/4 cup rice wine vinegar
+3 tablespoons honey (for vegan-substitute maple syrup or agave)
+1 tablespoon soy sauce (or GF alternative like Braggs or Coconut Amino Acids)
+1 garlic clove, finely minced ( use a garlic press)
+1 tablespoon ginger, finely chopped
+1/2 teaspoon salt
+1/2 teaspoon chili flakes or chili paste ( optional)
+Equipment
+
+## Instructions
+
+Toss together all slaw ingredients in a large bowl.
+
+Whisk dressing ingredients together.
+
+Pour dressing over slaw and toss to combine. Taste and add sesame oil and honey as necessary.

@@ -1,0 +1,44 @@
+---
+title: "Chickpea Apple Broccoli Salad with Honey Dijon Dressing"
+description: "This delicious salad comes together quickly, and thanks to the chickpeas it's hearty enough to stand as a meal!"
+yield: "Serves 4"
+categories:
+  - Salads
+tags:
+  - Weeknight Meals
+  - Seasonal Treats
+source:
+  url: "https://www.ambitiouskitchen.com/chickpea-apple-broccoli-salad-with-honey-dijon-dressing/"
+---
+
+## Ingredients
+
+For the salad
+1head broccoli, very finely chopped
+1(15 ounce) can of chickpeas, rinsed and drained
+2cupsdiced honeycrisp apples (from about 2 medium honeycrisp apples)
+1cupshredded carrots (or 1 cup matchstick cut carrots)
+⅓cupdiced green onion
+⅓cupdried cherries
+⅓cupchopped pecans
+½cupchopped flat leaf parsley
+For the dressing
+3tablespoonsolive oil
+1 ½tablespoonsapple cider vinegar
+1tablespoondijon mustard
+½tablespoonhoney
+1cloveof garlic, minced
+Freshly ground salt and pepper, to taste
+Equipment
+
+## Instructions
+
+In a large bowl, add finely chopped broccoli, chickpeas, apples, carrots, green onion, dried cherries, pecans, and parsley. Set aside.
+
+Make the dressing by whisking together the following ingredients in a small bowl: olive oil, apple cider vinegar, dijon mustard, honey, garlic, salt and pepper. Immediately drizzle over salad and toss to combine.
+
+Taste and add more salt and pepper, if necessary. Garnish with extra cherries and pecans and serve immediately or place in the fridge for later. Salad will keep well up to 5 days. Serves 4.
+
+## Notes
+
+- The dressing is delicious - I would double it and save it for moar salad!

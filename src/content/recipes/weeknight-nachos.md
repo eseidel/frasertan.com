@@ -1,0 +1,45 @@
+---
+title: "Weeknight Nachos"
+description: "With this recipe from Smitten Kitchen, you too can enjoy hearing these precious words from your four-year-old: \"Mommy I love what you make for dinner!\""
+categories:
+  - Main Dishes
+tags:
+  - Weeknight Meals
+source:
+  url: "https://smittenkitchen.com/2016/06/corn-and-black-bean-weeknight-nachos/"
+---
+
+## Ingredients
+
+2 ears corn, husked
+1 15-ounce can black beans, drained and rinsed
+Nonstick spray or 2 teaspoons oil
+2 generous cups (about 8 ounces) coarsely grated monterey jack cheese
+2 generous cups (about 8 ounces) coarsely grated cheddar cheese
+1 12-ounce bag tortilla chips, the thicker the better
+Toppings of choice:
+avocado
+diced tomatos
+salsa
+cilantro
+lime wedges
+minced red or white onion
+hot sauce
+
+## Instructions
+
+Add a dollop of canola oil to a small frying pan and heat over medium-high heat until shimmering. Cut the corn kernel from the cob, then add to the hot pan. Let cook without stirring for 2 minutes, until well charred in spots, then stir and let cook for another minute or so. Remove from heat and let cool.
+
+Preheat oven to 400°.
+
+Line a large baking sheet with aluminum foil, then spray with nonstick spray. Lay out 1/3 of the chips in a flat layer. Sprinkle 1/3 of the corn and 1/3 of the beans over the chips, then top with 1/3 of the cheese. Repeat three times.
+
+Bake chips and cheese in the oven until the cheese is melted and blistered, 15 to 20 minutes.
+
+While the nachos are baking, prep your toppings and set the table.
+
+Serve while hot!
+
+## Notes
+
+- The original recipe also has you chop up and add a poblano pepper to the nachos before baking; I leave this part out to keep the meal child friendly.

@@ -1,0 +1,18 @@
+---
+interface Props {
+  code: string;
+}
+
+const { code } = Astro.props;
+const base = code.replace(/\*$/, "").toUpperCase();
+const labels: Record<string, string> = {
+  GF: "Gluten-Free",
+  DF: "Dairy-Free",
+  EF: "Egg-Free",
+  V: "Vegan",
+};
+const label = labels[base] || code;
+const cssClass = `badge badge-${base.toLowerCase()}`;
+---
+
+<span class={cssClass} title={label}>{code}</span>

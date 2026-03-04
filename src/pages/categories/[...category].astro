@@ -1,0 +1,91 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import RecipeCard from "../../components/RecipeCard.astro";
+import { getCollection } from "astro:content";
+
+export function getStaticPaths() {
+  const categories = [
+    "Starters",
+    "Salads",
+    "Soups and Stews",
+    "Main Dishes",
+    "Sauces and Dips",
+    "Side Dishes",
+    "Breads and Baked Goods",
+    "Desserts",
+    "Breakfast",
+    "Drinks",
+  ];
+  return categories.map((cat) => ({
+    params: { category: cat.toLowerCase().replace(/ /g, "-") },
+    props: { categoryName: cat },
+  }));
+}
+
+const { categoryName } = Astro.props;
+const recipes = await getCollection("recipes");
+const inCategory = recipes
+  .filter((r) => r.data.categories.includes(categoryName))
+  .sort((a, b) => a.data.title.localeCompare(b.data.title));
+
+// Group by subcategory
+const subcategoryMap = new Map<string, typeof inCategory>();
+const noSubcategory: typeof inCategory = [];
+
+for (const recipe of inCategory) {
+  const subs = recipe.data.subcategories;
+  if (subs && subs.length > 0) {
+    for (const sub of subs) {
+      if (!subcategoryMap.has(sub)) {
+        subcategoryMap.set(sub, []);
+      }
+      subcategoryMap.get(sub)!.push(recipe);
+    }
+  } else {
+    noSubcategory.push(recipe);
+  }
+}
+
+const subcategories = Array.from(subcategoryMap.entries()).sort(([a], [b]) =>
+  a.localeCompare(b)
+);
+---
+
+<BaseLayout title={categoryName}>
+  <h1>{categoryName}</h1>
+  <p>{inCategory.length} recipes</p>
+
+  {subcategories.map(([subName, subRecipes]) => (
+    <div class="subcategory-group">
+      <h3>{subName}</h3>
+      <div class="recipe-grid">
+        {subRecipes
+          .sort((a, b) => a.data.title.localeCompare(b.data.title))
+          .map((recipe) => (
+            <RecipeCard
+              title={recipe.data.title}
+              slug={recipe.id}
+              description={recipe.data.description}
+              dietary={recipe.data.dietary}
+            />
+          ))}
+      </div>
+    </div>
+  ))}
+
+  {noSubcategory.length > 0 && (
+    <div class="subcategory-group">
+      {subcategories.length > 0 && <h3>Other</h3>}
+      <div class="recipe-grid">
+        {noSubcategory.map((recipe) => (
+          <RecipeCard
+            title={recipe.data.title}
+            slug={recipe.id}
+            description={recipe.data.description}
+            dietary={recipe.data.dietary}
+          />
+        ))}
+      </div>
+    </div>
+  )}
+</BaseLayout>
