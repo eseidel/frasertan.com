@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Chipotle Chopped Steak Salad"
 yield: "Serves XX"
 categories:
   - Salads

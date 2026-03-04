@@ -14,6 +14,10 @@
   --max-width: 960px;
 }
 
+html {
+  scrollbar-gutter: stable;
+}
+
 *,
 *::before,
 *::after {
