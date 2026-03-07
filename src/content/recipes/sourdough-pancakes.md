@@ -2,8 +2,6 @@
 title: "Sourdough Pancakes"
 description: "Sourdough pancakes have a delicious flavor and fluffy texture, and they're a great way to use up sourdough discard. Ready in just 20 minutes."
 categories:
-  - Breads and Baked Goods
-subcategories:
   - Breakfast
 yield: "12 pancakes"
 source:
